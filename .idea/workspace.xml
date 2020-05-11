@@ -2,24 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9791246b-adc6-43cf-879c-3860d83df8bc" name="默认更改列表" comment="ok">
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U2_Java包装类/T2_10_基本数据类型与包装类的转换1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U2_Java包装类/T2_12_基本数据类型与包装类的转换2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U2_Java包装类/T2_19_基本数据类型与包装类的转换3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U3_Java字符串/P1_字符串转字节数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U3_Java字符串/T2_6_String常用方法.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U3_Java字符串/T3_4_StringBuilder基本操作.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U3_Java字符串/T4_3_StringBuilder与String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U4_Java集合/T2_4_ArrayList对字符串的存储.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U4_Java集合/T2_6_公告管理案例/Notice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U4_Java集合/T2_6_公告管理案例/NoticeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U4_Java集合/T2_8_用ArrayList操作员工信息/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U4_Java集合/T2_8_用ArrayList操作员工信息/EmployeeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base of Java/src/U3_Java字符串/T4_3_StringBuilder与String.java" beforeDir="false" afterPath="$PROJECT_DIR$/Base of Java/src/U3_Java字符串/T4_3_StringBuilder与String.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Base of Java/src/U2_Java包装类/T2_10_基本数据类型与包装类的转换1.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectId" id="1blAgvRl0dWCUiMRcobQuVBZriL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,7 +46,69 @@
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RunManager" selected="Application.EmployeeTest">
+    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U4_Java集合.T2_8_用ArrayList操作员工信息.EmployeeTest" />
+      <module name="Base of Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="U4_Java集合.T2_8_用ArrayList操作员工信息.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NoticeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U4_Java集合.T2_6_公告管理案例.NoticeTest" />
+      <module name="Base of Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="U4_Java集合.T2_6_公告管理案例.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T2_4_ArrayList对字符串的存储" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U4_Java集合.T2_4_ArrayList对字符串的存储" />
+      <module name="Base of Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="U4_Java集合.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T4_3_StringBuilder与String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U3_Java字符串.T4_3_StringBuilder与String" />
+      <module name="Base of Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="U3_Java字符串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EmployeeTest" />
+        <item itemvalue="Application.NoticeTest" />
+        <item itemvalue="Application.T2_4_ArrayList对字符串的存储" />
+        <item itemvalue="Application.T4_3_StringBuilder与String" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -46,7 +120,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589196420903</updated>
-      <workItem from="1589196423280" duration="504000" />
+      <workItem from="1589196423280" duration="2007000" />
+      <workItem from="1589220075506" duration="2707000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1589196582800</created>
@@ -62,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589196678941</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ok">
+      <created>1589196973523</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589196973523</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,10 +155,42 @@
     <option name="LAST_COMMIT_MESSAGE" value="ok" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="325" y="6" key="CommitChangelistDialog2" timestamp="1589196909325">
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1589222389634">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="325" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589196909325" />
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589222389634" />
+    <state x="325" y="6" width="838" height="811" key="CommitChangelistDialog2" timestamp="1589197175830">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="325" y="6" width="838" height="811" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589197175830" />
+    <state width="1493" height="162" key="GridCell.Tab.0.bottom" timestamp="1589222756715">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="162" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589222756715" />
+    <state width="1493" height="162" key="GridCell.Tab.0.center" timestamp="1589222756715">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="162" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589222756715" />
+    <state width="1493" height="162" key="GridCell.Tab.0.left" timestamp="1589222756715">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="162" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589222756715" />
+    <state width="1493" height="162" key="GridCell.Tab.0.right" timestamp="1589222756715">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="162" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589222756715" />
+    <state x="544" y="57" key="SettingsEditor" timestamp="1589220152790">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="544" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589220152790" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1589222985836">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1589222985836" />
+    <state x="840" y="40" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589197727628">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="840" y="40" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1589197727628" />
     <state x="564" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589196944016">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
