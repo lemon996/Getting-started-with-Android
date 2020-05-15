@@ -1,19 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9791246b-adc6-43cf-879c-3860d83df8bc" name="默认更改列表" comment="ok">
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U4_Java集合/T2_4_ArrayList对字符串的存储.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U4_Java集合/T2_6_公告管理案例/Notice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U4_Java集合/T2_6_公告管理案例/NoticeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U4_Java集合/T2_8_用ArrayList操作员工信息/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U4_Java集合/T2_8_用ArrayList操作员工信息/EmployeeTest.java" afterDir="false" />
+    <list default="true" id="9791246b-adc6-43cf-879c-3860d83df8bc" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U4_Java集合/T3_11_学生管理/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U4_Java集合/T3_11_学生管理/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U4_Java集合/T3_6_宠物猫管理系统/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U4_Java集合/T3_6_宠物猫管理系统/CatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U4_Java集合/T4_3_Map字典.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U4_Java集合/T4_4_HashMap与世界杯.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U4_Java集合/T4_7_商品信息管理/GoodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U4_Java集合/T4_7_商品信息管理/Goods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U5_Java多线程/T2_1_通过Thread类创建线程.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U5_Java多线程/T2_5_打印机.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U5_Java多线程/T2_6_通过Runnable接口创建线程.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Base of Java/src/U3_Java字符串/T4_3_StringBuilder与String.java" beforeDir="false" afterPath="$PROJECT_DIR$/Base of Java/src/U3_Java字符串/T4_3_StringBuilder与String.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Getting-started-with-Android" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,13 +70,13 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
-  <component name="RunManager" selected="Application.EmployeeTest">
-    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U4_Java集合.T2_8_用ArrayList操作员工信息.EmployeeTest" />
+  <component name="RunManager" selected="Application.T2_6_通过Runnable接口创建线程">
+    <configuration name="GoodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U4_Java集合.T4_7_商品信息管理.GoodTest" />
       <module name="Base of Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="U4_Java集合.T2_8_用ArrayList操作员工信息.*" />
+          <option name="PATTERN" value="U4_Java集合.T4_7_商品信息管理.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoticeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U4_Java集合.T2_6_公告管理案例.NoticeTest" />
+    <configuration name="T2_1_通过Thread类创建线程" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U5_Java多线程.T2_1_通过Thread类创建线程" />
       <module name="Base of Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="U4_Java集合.T2_6_公告管理案例.*" />
+          <option name="PATTERN" value="U5_Java多线程.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,8 +97,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T2_4_ArrayList对字符串的存储" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U4_Java集合.T2_4_ArrayList对字符串的存储" />
+    <configuration name="T2_5_打印机" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U5_Java多线程.T2_5_打印机" />
+      <module name="Base of Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="U5_Java多线程.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T2_6_通过Runnable接口创建线程" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U5_Java多线程.T2_6_通过Runnable接口创建线程" />
+      <module name="Base of Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="U5_Java多线程.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T4_4_HashMap与世界杯" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U4_Java集合.T4_4_HashMap与世界杯" />
       <module name="Base of Java" />
       <extension name="coverage">
         <pattern>
@@ -88,25 +136,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T4_3_StringBuilder与String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U3_Java字符串.T4_3_StringBuilder与String" />
-      <module name="Base of Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="U3_Java字符串.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EmployeeTest" />
-        <item itemvalue="Application.NoticeTest" />
-        <item itemvalue="Application.T2_4_ArrayList对字符串的存储" />
-        <item itemvalue="Application.T4_3_StringBuilder与String" />
+        <item itemvalue="Application.T2_6_通过Runnable接口创建线程" />
+        <item itemvalue="Application.T2_5_打印机" />
+        <item itemvalue="Application.T2_1_通过Thread类创建线程" />
+        <item itemvalue="Application.GoodTest" />
+        <item itemvalue="Application.T4_4_HashMap与世界杯" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +157,11 @@
       <option name="presentableId" value="Default" />
       <updated>1589196420903</updated>
       <workItem from="1589196423280" duration="2007000" />
-      <workItem from="1589220075506" duration="2707000" />
+      <workItem from="1589220075506" duration="3163000" />
+      <workItem from="1589256544987" duration="2470000" />
+      <workItem from="1589261001038" duration="10931000" />
+      <workItem from="1589283352322" duration="1484000" />
+      <workItem from="1589561324374" duration="694000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1589196582800</created>
@@ -144,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589196973523</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2020年5月12日02点50分">
+      <created>1589223042727</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589223042727</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,41 +199,46 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ok" />
-    <option name="LAST_COMMIT_MESSAGE" value="ok" />
+    <MESSAGE value="2020年5月12日02点50分" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年5月12日02点50分" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1589222389634">
+    <state x="435" y="119" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1589262613722">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589222389634" />
-    <state x="325" y="6" width="838" height="811" key="CommitChangelistDialog2" timestamp="1589197175830">
+    <state x="435" y="119" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog/0.0.1536.824@0.0.1536.824" timestamp="1589262613722" />
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1589283539103">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="325" y="6" width="838" height="811" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589197175830" />
-    <state width="1493" height="162" key="GridCell.Tab.0.bottom" timestamp="1589222756715">
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589283539103" />
+    <state x="325" y="6" width="838" height="811" key="CommitChangelistDialog2" timestamp="1589223040832">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="162" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589222756715" />
-    <state width="1493" height="162" key="GridCell.Tab.0.center" timestamp="1589222756715">
+    <state x="325" y="6" width="838" height="811" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589223040832" />
+    <state width="1515" height="163" key="GridCell.Tab.0.bottom" timestamp="1589284204254">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="162" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589222756715" />
-    <state width="1493" height="162" key="GridCell.Tab.0.left" timestamp="1589222756715">
+    <state width="1515" height="163" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589284204254" />
+    <state width="1515" height="163" key="GridCell.Tab.0.center" timestamp="1589284204254">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="162" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589222756715" />
-    <state width="1493" height="162" key="GridCell.Tab.0.right" timestamp="1589222756715">
+    <state width="1515" height="163" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589284204254" />
+    <state width="1515" height="163" key="GridCell.Tab.0.left" timestamp="1589284204254">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="162" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589222756715" />
+    <state width="1515" height="163" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589284204254" />
+    <state width="1515" height="163" key="GridCell.Tab.0.right" timestamp="1589284204254">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="163" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589284204254" />
     <state x="544" y="57" key="SettingsEditor" timestamp="1589220152790">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="544" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589220152790" />
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1589222985836">
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1589223053558">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1589222985836" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1589223053558" />
     <state x="840" y="40" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589197727628">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
