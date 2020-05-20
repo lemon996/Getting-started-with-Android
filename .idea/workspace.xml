@@ -2,24 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9791246b-adc6-43cf-879c-3860d83df8bc" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U5_Java多线程/T2_8_Runnanle接口实现dog_cat/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U5_Java多线程/T2_8_Runnanle接口实现dog_cat/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U5_Java多线程/T2_8_Runnanle接口实现dog_cat/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U5_Java多线程/T3_3_sleep方法.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U5_Java多线程/T3_6_输出字母/Letter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U5_Java多线程/T3_6_输出字母/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U5_Java多线程/T3_7_join方法.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U5_Java多线程/T3_9_线程的优先级.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U5_Java多线程/T5_1_进程间通信/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U5_Java多线程/T5_1_进程间通信/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U5_Java多线程/T5_1_进程间通信/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U5_Java多线程/T5_1_进程间通信/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U5_Java多线程/T5_3_温度计/GenerateWeather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U5_Java多线程/T5_3_温度计/ReadWeather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U5_Java多线程/T5_3_温度计/Weather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base of Java/src/U5_Java多线程/T5_3_温度计/WeatherTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U5_Java多线程/T_ex_callable创建多线程.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U6_Java输入输出流/T2_4_File类的常用方法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U6_Java输入输出流/T2_7_文件操作练习.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U6_Java输入输出流/T2_8_绝对路径与相对路径.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U6_Java输入输出流/T3_10_FileOutputSteam读写gif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U6_Java输入输出流/T3_14_缓冲流案例.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U6_Java输入输出流/T3_16_比较File和Buffered速度.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U6_Java输入输出流/T3_4_FileInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U6_Java输入输出流/T3_7_字符个数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U6_Java输入输出流/T3_8_FileIOutputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U6_Java输入输出流/T4_3_字节字符转换流.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U6_Java输入输出流/T4_5_文本写入与读取.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U6_Java输入输出流/T5_1_对象序列化和反序列化/Goods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U6_Java输入输出流/T5_1_对象序列化和反序列化/GoodsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U6_Java输入输出流/T5_3_序列化练习/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U6_Java输入输出流/T5_3_序列化练习/ProductTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U6_Java输入输出流/out/Hello1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U6_Java输入输出流/out/序列化.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Base of Java/src/U6_Java输入输出流/out/序列化练习.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,12 +69,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Base of Java/src/U6_Java输入输出流/out" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -80,13 +84,24 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
-  <component name="RunManager" selected="Application.WeatherTest">
-    <configuration name="T3_7_join方法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U5_Java多线程.T3_7_join方法" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaJava\Getting-started-with-Android\Base of Java\src\U6_Java输入输出流\T2_4_File类的常用方法" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="U6_Java输入输出流" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaJava\Getting-started-with-Android\Base of Java\src\U6_Java输入输出流\out" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ProductTest">
+    <configuration name="GoodsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U6_Java输入输出流.T5_1_对象序列化和反序列化.GoodsTest" />
       <module name="Base of Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="U5_Java多线程.*" />
+          <option name="PATTERN" value="U6_Java输入输出流.T5_1_对象序列化和反序列化.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T3_9_线程的优先级" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U5_Java多线程.T3_9_线程的优先级" />
+    <configuration name="ProductTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U6_Java输入输出流.T5_3_序列化练习.ProductTest" />
       <module name="Base of Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="U5_Java多线程.*" />
+          <option name="PATTERN" value="U6_Java输入输出流.T5_3_序列化练习.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U5_Java多线程.T3_6_输出字母.Test" />
+    <configuration name="T3_16_比较File和Buffered速度" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U6_Java输入输出流.T3_16_比较File和Buffered速度" />
       <module name="Base of Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="U5_Java多线程.T3_6_输出字母.*" />
+          <option name="PATTERN" value="U6_Java输入输出流.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U5_Java多线程.T5_1_进程间通信.Test" />
+    <configuration name="T4_3_字节字符转换流" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U6_Java输入输出流.T4_3_字节字符转换流" />
       <module name="Base of Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="U5_Java多线程.T5_1_进程间通信.*" />
+          <option name="PATTERN" value="U6_Java输入输出流.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeatherTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="U5_Java多线程.T5_3_温度计.WeatherTest" />
+    <configuration name="T4_5_文本写入与读取" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U6_Java输入输出流.T4_5_文本写入与读取" />
       <module name="Base of Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="U5_Java多线程.T5_3_温度计.*" />
+          <option name="PATTERN" value="U6_Java输入输出流.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WeatherTest" />
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.T3_9_线程的优先级" />
-        <item itemvalue="Application.T3_7_join方法" />
-        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.ProductTest" />
+        <item itemvalue="Application.GoodsTest" />
+        <item itemvalue="Application.T4_5_文本写入与读取" />
+        <item itemvalue="Application.T4_3_字节字符转换流" />
+        <item itemvalue="Application.T3_16_比较File和Buffered速度" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +189,18 @@
       <workItem from="1589561324374" duration="1974000" />
       <workItem from="1589614630433" duration="5575000" />
       <workItem from="1589639909173" duration="1732000" />
-      <workItem from="1589645082617" duration="2970000" />
+      <workItem from="1589645082617" duration="3248000" />
+      <workItem from="1589649621210" duration="338000" />
+      <workItem from="1589700559098" duration="4010000" />
+      <workItem from="1589737554648" duration="1728000" />
+      <workItem from="1589739318899" duration="513000" />
+      <workItem from="1589789907738" duration="32000" />
+      <workItem from="1589807051183" duration="9815000" />
+      <workItem from="1589981969053" duration="815000" />
+      <workItem from="1589983954404" duration="2214000" />
+      <workItem from="1589988016390" duration="14000" />
+      <workItem from="1589989537477" duration="352000" />
+      <workItem from="1589990151150" duration="3650000" />
     </task>
     <task id="LOCAL-00001" summary="ok">
       <created>1589196582800</created>
@@ -211,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589562157411</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2020年5月17日00点57分">
+      <created>1589648240614</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589648240614</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,7 +254,8 @@
     <MESSAGE value="ok" />
     <MESSAGE value="2020年5月12日02点50分" />
     <MESSAGE value="2020年5月16日01点02分" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020年5月16日01点02分" />
+    <MESSAGE value="2020年5月17日00点57分" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020年5月17日00点57分" />
   </component>
   <component name="WindowStateProjectService">
     <state x="435" y="119" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1589262613722">
@@ -232,57 +266,57 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="979" y="224" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1589644643970" />
-    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1589646474699">
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1589993748275">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589646474699" />
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589993748275" />
     <state x="875" y="306" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1589644978573">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="875" y="306" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1589644978573" />
-    <state x="325" y="6" width="838" height="811" key="CommitChangelistDialog2" timestamp="1589562156252">
+    <state x="325" y="6" width="838" height="811" key="CommitChangelistDialog2" timestamp="1589994396901">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="325" y="6" width="838" height="811" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589562156252" />
-    <state width="1515" height="197" key="GridCell.Tab.0.bottom" timestamp="1589648199938">
+    <state x="325" y="6" width="838" height="811" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589994396901" />
+    <state width="1515" height="151" key="GridCell.Tab.0.bottom" timestamp="1589994355648">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="197" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589648199938" />
-    <state width="1515" height="197" key="GridCell.Tab.0.center" timestamp="1589648199938">
+    <state width="1515" height="151" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589994355648" />
+    <state width="1515" height="151" key="GridCell.Tab.0.center" timestamp="1589994355648">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="197" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589648199938" />
-    <state width="1515" height="197" key="GridCell.Tab.0.left" timestamp="1589648199938">
+    <state width="1515" height="151" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589994355648" />
+    <state width="1515" height="151" key="GridCell.Tab.0.left" timestamp="1589994355648">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="197" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589648199938" />
-    <state width="1515" height="197" key="GridCell.Tab.0.right" timestamp="1589648199938">
+    <state width="1515" height="151" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589994355648" />
+    <state width="1515" height="151" key="GridCell.Tab.0.right" timestamp="1589994355648">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="197" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589648199938" />
-    <state x="498" y="0" key="SettingsEditor" timestamp="1589646653386">
+    <state width="1515" height="151" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589994355648" />
+    <state x="365" y="85" key="SettingsEditor" timestamp="1589984403913">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589646653386" />
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1589562181180">
+    <state x="365" y="85" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589984403913" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1589648247483">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1589562181180" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1589648247483" />
     <state x="840" y="40" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589197727628">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="840" y="40" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1589197727628" />
-    <state x="564" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589196944016">
+    <state x="564" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589984389575">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="564" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1589196944016" />
+    <state x="564" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1589984389575" />
     <state x="178" y="28" key="new project wizard" timestamp="1589196511323">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="178" y="28" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1589196511323" />
-    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1589644178164">
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1589706102599">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589644178164" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589706102599" />
   </component>
 </project>
